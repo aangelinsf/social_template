@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "aangelinsf/open_social": "~10.0",
+        "aangelinsf/open_social": "10.0.x-dev",
         "php": "^7.2",
         "monolog/monolog": "^1.17"
     },
