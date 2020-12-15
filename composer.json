@@ -23,6 +23,19 @@
         {
             "type": "composer",
             "url": "https://asset-packagist.org"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "aangelinsf/open_social",
+                "version": "10.0.x-dev",
+                "type": "drupal-profile",
+                "source": {
+                    "url": "https://github.com/aangelinsf/open_social.git",
+                    "type": "git",
+                    "reference": "10.0.x"
+                }
+            }
         }
     ],
     "extra": {
