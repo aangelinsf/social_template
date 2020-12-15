@@ -60,7 +60,7 @@
                 "type:drupal-module"
             ],
             "html/profiles/contrib/social": [
-                "goalgorilla/open_social"
+                "aangelinsf/open_social"
             ],
             "html/profiles/contrib/{$name}": [
                 "type:drupal-profile"
