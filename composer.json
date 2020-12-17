@@ -52,7 +52,7 @@
                 "type:drupal-profile"
             ],
             "html/profiles/contrib/{$name}": [
-                "type:drupal-profile"
+                "aangelinsf/open_social"
             ],
             "html/themes/contrib/{$name}": [
                 "type:drupal-theme"
